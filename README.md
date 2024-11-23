@@ -1,4 +1,4 @@
-![Logo]("C:\Users\Mukesh Kumar\Downloads\DALL·E 2024-11-23 19.22.07 - A sleek and professional logo for a project titled 'Banking Fraud Analysis.' The design should focus on elements of data analysis, banking, and fraud .webp")
+![Logo](https://your-image-url.com/logo.png)
 # Paisabazaar Banking Fraud Analysis
 
 ## Project Overview
@@ -71,4 +71,4 @@ To explore the project, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
