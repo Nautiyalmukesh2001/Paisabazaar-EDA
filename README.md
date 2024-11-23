@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Banking Fraud Analysis Logo" width="300">
+<img src="logo.png" alt="Banking Fraud Analysis Logo" width="200">
 
 # Paisabazaar Banking Fraud Analysis
 
