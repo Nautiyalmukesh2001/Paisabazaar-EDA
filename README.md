@@ -1,4 +1,4 @@
-![Logo](file:///C:/Users/Mukesh%20Kumar/Downloads/DALL%C2%B7E%202024-11-23%2019.22.07%20-%20A%20sleek%20and%20professional%20logo%20for%20a%20project%20titled%20'Banking%20Fraud%20Analysis.'%20The%20design%20should%20focus%20on%20elements%20of%20data%20analysis,%20banking,%20and%20fraud%20.webp)
+![Logo](logo.png)
 # Paisabazaar Banking Fraud Analysis
 
 ## Project Overview
