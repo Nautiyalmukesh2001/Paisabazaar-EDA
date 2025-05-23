@@ -68,7 +68,7 @@ To explore the project, follow these steps:
 ## Author
 
 * Mukesh Nautiyal
-* LinkedIn: [https://www.linkedin.com/in/mukesh-nautiyal-23978a2b1/]
+* *[LinkedIn](https://www.linkedin.com/in/mukesh-nautiyal-23978a2b1/)*
 
 ## License
 
