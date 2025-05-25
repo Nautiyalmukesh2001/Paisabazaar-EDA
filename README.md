@@ -1,6 +1,8 @@
-<img src="logo.png" alt="Banking Fraud Analysis Logo" width="200">
-
 # Paisabazaar Banking Fraud Analysis
+
+
+![Paisabazaar-logo svg](https://github.com/user-attachments/assets/ec72e1e8-4420-40de-9cfc-88fd5d5ff28f)
+
 
 ## Project Overview
 
